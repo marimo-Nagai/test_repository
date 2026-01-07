@@ -11,7 +11,7 @@
 
 <a href="sample?aaa=メッセージ&bbb=受け取る">遷移</a>
 <% out.print("hello world"); %>
-<p>hello world</p>
+<p>hello world!!</p>
 
 </body>
 </html>
